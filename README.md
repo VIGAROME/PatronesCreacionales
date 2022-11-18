@@ -1,3 +1,4 @@
 # PatronesCreacionales!
 ## Diagramas de Clases
-### Factory Method [FM](https://user-images.githubusercontent.com/84451817/202610816-1c4ddb39-1972-4e91-a23a-ac3223e80357.png)
+### Factory Method 
+![FM](https://user-images.githubusercontent.com/84451817/202611128-0b93e335-2e74-4c5c-84a6-05fd83f580b9.png)
